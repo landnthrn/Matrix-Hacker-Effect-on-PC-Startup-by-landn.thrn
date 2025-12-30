@@ -72,15 +72,17 @@ That’s all! The matrix/hacker effect  will now appear whenever you start up yo
 
 ### NOTES:  
 
-- Don't rename the files or place them in other folders than `C:\Windows\Scripts\MatrixEffect` 
+- Some of the effects may run slower depending on your computer
+
+- Don't rename the files or place them in other folders than `C:\Windows\Scripts\MatrixEffect`  
   unless you know how to change the paths in the files & shortcuts
 
 - If you want to customize the effects yourself it's rather simple
 
 - The Matrix Effect 1.2 option might run slowly depending on your computer.
 
-  - You can easily change the number of tabs — just right-click on the Matrix 7 Tabs.bat file and press Edit,  
-    then change the number to whatever you prefer on this chunk
+- You can easily change the number of tabs for `Matrix Effect 1.2.bat`   
+  Edit the .bat in notepad and change this number to whatever you prefer  
 
 ```bat
     :: Number of tabs to open
