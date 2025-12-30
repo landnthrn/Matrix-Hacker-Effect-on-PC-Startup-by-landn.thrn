@@ -40,6 +40,8 @@
 
 You can preview the `Matrix Effect 1.1` & `1.2` just by double click, for the Hacker Effects you'll have to:
 
+- Install the Cascadia Code font  
+
 - Create a shortcut for `Hacker Effect 1.1` & `1.2` 
 
 - Right click shortcut > Properties > Font 
