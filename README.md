@@ -24,23 +24,11 @@
 
 ---
 
-## HOW TO SETUP:
-
-- Go to `C:\Windows` in your File Explorer or press `Win + R` and type `%windir%`
-
-- In this folder, create a new folder and title it `Scripts`  
-
-- Inside the `Scripts` folder created another called `MatrixEffect` 
-
-- Drag all the files from this download into the folder
-
----
-
 ### HOW TO PREVIEW THE EFFECTS:
 
 You can preview the `Matrix Effect 1.1` & `1.2` just by double click, for the Hacker Effects you'll have to:
 
-- Install the Cascadia Code font  
+- Install the Cascadia Code font *(if not already)*  
 
 - Create a shortcut for `Hacker Effect 1.1` & `1.2` 
 
@@ -52,7 +40,7 @@ You can preview the `Matrix Effect 1.1` & `1.2` just by double click, for the Ha
 
 - Under the Window Size width & height change the height to 90 > Apply > OK
 
-- Now you can preview the hacker effects and move on to next step
+Now you can preview the hacker effects and move on to next step
 
 ---
 
@@ -74,15 +62,10 @@ That’s all! The matrix/hacker effect  will now appear whenever you start up yo
 
 - Some of the effects may run slower depending on your computer
 
-- Don't rename the files or place them in other folders than `C:\Windows\Scripts\MatrixEffect`  
-  unless you know how to change the paths in the files & shortcuts
+- For the Hacker Effects, if you move the files later then the shortcut in shell:startup folder will break 
 
-- If you want to customize the effects yourself it's rather simple
-
-- The Matrix Effect 1.2 option might run slowly depending on your computer.
-
-- You can easily change the number of tabs for `Matrix Effect 1.2.bat`   
-  Edit the .bat in notepad and change this number to whatever you prefer  
+- You can easily change the number of tabs for Matrix Effect 1.2.bat   
+  Edit the .bat in notepad and change this number to whatever you prefer
 
 ```bat
     :: Number of tabs to open
